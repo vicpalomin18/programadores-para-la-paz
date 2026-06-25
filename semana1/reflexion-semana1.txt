@@ -1,0 +1,11 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+El uso responsable de la información en internet, la participación ciudadana y el trabajo con Git comparten una misma base:
+la responsabilidad en entornos colaborativos. En internet, actuar con criterio implica verificar lo que se comparte, pues 
+cada publicación tiene consecuencias reales sobre otras personas. De la misma manera, un ciudadano bien informado contribuye
+a decisiones colectivas más justas. Git aplica esta misma lógica al desarrollo de software, registrando cada cambio con su 
+autor y motivo, lo que funciona como una forma de rendición de cuentas. En los tres contextos aparecen valores comunes como 
+la transparencia, el respeto por el trabajo ajeno y la conciencia de que cada acción deja una huella. El anonimato y la velocidad
+de internet dificultan ese nivel de responsabilidad, lo que hace necesaria una educación digital sólida. Ya sea navegando
+en la web, participando en la vida pública o colaborando en un repositorio, la responsabilidad individual es la condición que hace
+posible el trabajo colectivo.
