@@ -1,5 +1,5 @@
 Ejemplo de JSON para reportar una incidencia ciudadana
-=======================================================
+=====================================================
 
 Un ciudadano puede enviar una petición POST a http://localhost:3000/incidencia
 con el siguiente cuerpo en formato JSON:
