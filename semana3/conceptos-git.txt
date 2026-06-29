@@ -1,0 +1,22 @@
+ conceptos git
+
+Repositorio:
+Un repositorio es el espacio donde se almacenan todos los archivos,
+carpetas y el historial de cambios de un proyecto. Es como una carpeta
+inteligente que no solo guarda el estado actual del proyecto, sino que
+también recuerda cada modificación que se ha hecho, quién la hizo y cuándo,
+lo que permite volver a versiones anteriores si algo sale mal.
+
+Commit:
+Un commit es un registro que guarda el estado de los archivos en un momento
+específico, como una fotografía del proyecto en ese instante. Cada commit
+incluye un mensaje descriptivo que explica qué cambios se realizaron y por
+qué, lo que permite llevar un historial ordenado y entender la evolución del
+proyecto a lo largo del tiempo.
+
+Push:
+El push es la acción de enviar los cambios que se han guardado localmente,
+ya sea en el computador o en Codespaces, hacia el repositorio remoto en
+GitHub. Es el paso que hace que el trabajo quede visible y disponible para
+otros colaboradores del proyecto, sincronizando la versión local con la
+versión en la nube.
