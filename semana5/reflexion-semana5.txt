@@ -1,0 +1,15 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Las APIs pueden ser una herramienta transformadora para las comunidades que necesitan compartir información,
+reportes o alertas de manera organizada, porque permiten conectar distintos sistemas y plataformas sin que los
+usuarios tengan que hacer ese proceso manualmente. Por ejemplo, una comunidad podría desarrollar una API que
+reciba reportes de incidentes desde un formulario web, los procese automáticamente y los distribuya simultáneamente
+a un grupo de WhatsApp, un correo electrónico y un mapa digital, todo en cuestión de segundos y sin intervención
+humana. Esto elimina la posibilidad de que una alerta importante se pierda por no haber sido reenviada a tiempo
+o por depender de una sola persona para su difusión. Además, las APIs permiten que la información quede registrada
+y organizada en una base de datos consultable, lo que facilita hacer seguimiento a los reportes, identificar patrones
+y tomar decisiones colectivas con base en datos reales. Otro beneficio importante es que una API bien diseñada puede
+recibir información desde distintos dispositivos y canales, lo que la hace accesible para miembros de la comunidad con
+diferentes tipos de tecnología. En definitiva, las APIs convierten la comunicación comunitaria en un proceso
+estructurado, confiable y escalable, reemplazando las cadenas de mensajes desorganizadas por sistemas que garantizan
+que la información correcta llegue a las personas correctas en el momento oportuno.
