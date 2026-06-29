@@ -1,0 +1,20 @@
+¿Qué hace esta ruta?
+Esta ruta recibe solicitudes de tipo POST en la dirección /reporte.
+Cuando alguien envía una solicitud a esa dirección, el servidor toma
+el campo "mensaje" que viene dentro del cuerpo de la solicitud, lo
+procesa y devuelve una respuesta en formato JSON confirmando que el
+reporte fue recibido exitosamente, junto con el contenido del mensaje
+que se envió. En otras palabras, es una ruta que escucha, recibe y
+confirma información enviada por el usuario.
+
+¿Para qué podría servir en una aplicación comunitaria?
+ cre que podría ser muy útil para que los miembros de una comunidad envíen reportes, alertas o solicitudes
+de manera organizada y registrada. Por ejemplo, un vecino podría usar
+un formulario web para reportar un problema de alumbrado, una fuga de
+agua o una situación de inseguridad en su barrio, y el servidor
+recibiría ese reporte automáticamente, lo confirmaría y podría
+almacenarlo en una base de datos para que los líderes comunitarios
+o las autoridades competentes lo consulten y le den seguimiento.
+Esto reemplaza los mensajes desordenados en grupos de WhatsApp por
+un sistema estructurado donde cada reporte queda registrado, tiene
+un estado y puede ser atendido de forma eficiente.

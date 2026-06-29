@@ -1,0 +1,18 @@
+Ruta 1: http://localhost:3000
+Al ingresar a esta dirección el servidor responde con un mensaje de
+bienvenida principal, que corresponde a la ruta raíz definida con "/".
+Es la primera página que muestra el servidor cuando se accede sin
+especificar ningún camino adicional.
+
+Ruta 2: http://localhost:3000/saludo
+Al ingresar a esta ruta el servidor responde con un mensaje de saludo
+predefinido en el código. Esta ruta está configurada para responder
+únicamente cuando el usuario accede a la dirección "/saludo", lo que
+demuestra cómo Express maneja rutas específicas con respuestas distintas.
+
+Ruta 3: http://localhost:3000/mensaje/Victor
+Al ingresar a esta ruta el servidor captura el nombre "Victor" como un
+parámetro dinámico y lo incluye dentro de la respuesta, mostrando un
+mensaje personalizado. Esto demuestra cómo Express puede recibir valores
+variables dentro de una ruta y usarlos para generar respuestas distintas
+según el dato que se le envíe.
