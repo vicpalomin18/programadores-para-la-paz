@@ -1,0 +1,9 @@
+ comandos usados
+
+pwd     // ubicacion de carpeta
+ls      // mostrar archivos y contenido de la carpeta
+mkdir semana2       // comando para crear una carpeta
+cd semana2          // acceder a una carpeta
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
