@@ -1,0 +1,18 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+
+Que una plataforma tecnológica comunitaria opere de forma estable y segura no representa
+un beneficio adicional sino el requisito mínimo para que pueda cumplir su propósito real.
+Cuando personas o comunidades utilizan una plataforma para registrar situaciones, consultar
+información o involucrarse en decisiones colectivas, cualquier interrupción del servicio puede
+traducirse en una voz que no llega a su destino o en una alerta urgente que nunca es atendida.
+Mantener el servidor disponible en todo momento exige un seguimiento constante de su funcionamiento,
+el registro sistemático de errores y la implementación de mecanismos que permitan una recuperación
+automática ante cualquier fallo, porque un sistema que se cae en silencio puede generar daños irreparables
+antes de que alguien lo detecte.
+La seguridad operativa, por su parte, no es solo una cuestión de proteger archivos o contraseñas, sino de
+preservar la integridad de la información que los ciudadanos confían al sistema y de sostener la credibilidad
+de quienes lo administran. En el marco de iniciativas como Programadores Para La Paz, configurar servidores
+con accesos controlados, puertos bien definidos y registros activos de actividad no es simplemente una práctica
+técnica recomendable, sino una expresión concreta del compromiso ético de poner la tecnología al servicio de las
+personas, cuidando su participación, protegiendo sus datos y fortaleciendo los lazos de confianza que hacen
+posible una comunidad digital responsable y sostenible.
