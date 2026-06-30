@@ -1,7 +1,4 @@
-Reflexión - Semana 8
-Leider Dario Bolaño Agámez
-Programadores Para La Paz
-==========================
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos?
 
 La seguridad digital es una responsabilidad que va más allá de lo técnico: es también
 una responsabilidad ética y comunitaria. Cuando una plataforma tecnológica está pensada
